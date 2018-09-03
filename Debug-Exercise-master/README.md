@@ -21,7 +21,7 @@ http://corsair.cs.iupui.edu:19031/CIT313/FA2015/a1/
 
 
 
-Download the source code from GitHub (you must be logged in):  https://github.com/crobertdillon/CIT313_Spring2018/tree/master/Debug-Exercise-master  (Feel free to clone or fork but the easiest for this assignment is to choose 'Download Zip' in the lower right hand corner)
+Download the source code from GitHub:  https://github.com/crobertdillon/CIT_FALL_2018/tree/master/Debug-Exercise-master (Feel free to clone or fork but the easiest for this assignment is to choose 'Download Zip' in the lower right hand corner)
 
 Unzip these files to your local 'a1' directory - ensure you update  the URL_ROOT and ABSOLUTE_PATH constants in your webconfig.inc.php file to match your directories on the Tomcat server.
 
